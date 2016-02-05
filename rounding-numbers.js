@@ -16,6 +16,6 @@
 
 
 
-var roundup = 1.5;
+var roundUp = 1.5;
 var rounded=Math.round(roundUp);
 console.log(rounded);

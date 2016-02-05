@@ -1,4 +1,4 @@
-/*
+x/*
  ## The challenge:
 
   Create a file named accessing-array-values.js.
@@ -14,3 +14,5 @@
      javascripting verify accessing-array-values.js
 */
 
+var food = ['apple', 'pizza', 'pear'];
+console.log(food[1]);
