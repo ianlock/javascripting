@@ -1,4 +1,4 @@
- /*
+/*
  ## The challenge:
 
   Create a file named function-arguments.js.
@@ -20,3 +20,8 @@
 
      javascripting verify function-arguments.js
 */
+
+function math(firstArg, secondArg, thirdArg){
+return secondArg * thirdArg + firstArg;
+}
+console.log(math(53, 61, 67));

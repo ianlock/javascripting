@@ -1,4 +1,4 @@
-x/*
+/*
  ## The challenge:
 
   Create a file named accessing-array-values.js.
